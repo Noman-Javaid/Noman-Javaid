@@ -1,11 +1,13 @@
 👋 Hi there! I'm a professional Software Engineer with 4 years of experience in the industry. I specialize in building robust and scalable web applications using a variety of technologies, including:
 
-Ruby on Rails (ROR)
-ReactJS
-MERN Stack
-Laravel
-jQuery
-Bootstrap
+Ruby on Rails (ROR),
+ReactJS,
+MERN Stack,
+Laravel,
+jQuery,
+Bootstrap,
+Docker,
+AWS, and some others
 
 I'm passionate about honing my programming skills and am eager to collaborate on projects that challenge and expand my expertise. Let's connect and create something amazing together!
 
