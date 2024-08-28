@@ -1,4 +1,4 @@
-👋 Hi there! I'm a professional Software Engineer with 4 years of experience in the industry. I specialize in building robust and scalable web applications using a variety of technologies, including:
+👋 Hi there! I'm a professional Software Engineer with 3-4 years of experience in the industry. I specialize in building robust and scalable web applications using a variety of technologies, including:
 
 Ruby on Rails (ROR),
 ReactJS,
