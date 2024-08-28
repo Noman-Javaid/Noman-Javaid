@@ -1,7 +1,15 @@
-- 👋 Hi, I’m a moderate level Software Engineer.
-- I’m interested in professional levels of programming.
-- I’m currently working and professionally learning ReactJS, NodeJs, Laravel, TailwindCSS and other web app languages.
-- I’m looking to collaborate on the projects which will improve my programming skills
-- You can reach me via email: mbsaeed7@gmail.com
+👋 Hi there! I'm a professional Software Engineer with 4 years of experience in the industry. I specialize in building robust and scalable web applications using a variety of technologies, including:
 
-Thanks for visiting me!
+Ruby on Rails (ROR)
+ReactJS
+MERN Stack
+Laravel
+jQuery
+Bootstrap
+
+I'm passionate about honing my programming skills and am eager to collaborate on projects that challenge and expand my expertise. Let's connect and create something amazing together!
+
+Feel free to reach out to me via email: javaidn96@gmail.com.
+
+Thanks for stopping by!
+
