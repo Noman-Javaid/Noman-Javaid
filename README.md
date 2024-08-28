@@ -7,7 +7,7 @@ Laravel,
 jQuery,
 Bootstrap,
 Docker,
-AWS, and some others
+Heroku and AWS
 
 I'm passionate about honing my programming skills and am eager to collaborate on projects that challenge and expand my expertise. Let's connect and create something amazing together!
 
